@@ -28,7 +28,7 @@ When a demand is raised by the user a notification to the stock manager’s acco
 app as well as email account. In response he will be sending the acknowledgment of the order to user
 through app notification and on registered email & mobile no as well.
 Tracking system would be provided so that user can know the status of its order that whether the
-materials are dispatched or not, estimated time to reach and whether materials are out for delivery.
+materials are dispatched or not, estimated time to reach and whether materials are out for delivery.    
 <br><b><u>Offline capabilities:</b></u> Users can use this application both online and offline mode. For this we will be storing
 the necessary data locally and sync them with the database whenever user gets online. While filing a
 demand request if the user if offline, user will also be asked to send the request details via mobile sms
